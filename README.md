@@ -1,0 +1,2 @@
+# kinetix
+Tienda accesible
